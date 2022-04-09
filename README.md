@@ -12,5 +12,3 @@
 <a href="https://instagram.com/khalil_kerbid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khalil_kerbid" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/skjumper963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="skjumper963" height="30" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dadd11scool&show_icons=true&locale=en&layout=compact" alt="dadd11scool" /></p>
